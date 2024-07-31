@@ -2,3 +2,4 @@ red is the 1st color of rainbow
 orange is the 2ng color of rainbow
 yellow is the 3rd color of rainbow
 green is the 4th color of rainbow
+blue is the 5th color of rainbow
