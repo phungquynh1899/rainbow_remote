@@ -5,3 +5,4 @@ green is the 4th color of rainbow
 blue is the 5th color of rainbow
 indigo is the 6th color of rainbow
 violet is the 7th color of rainbow
+These are the colors of rainbow
